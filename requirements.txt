@@ -1,0 +1,4 @@
+pandas
+solana
+asyncio
+flask
